@@ -1,0 +1,1 @@
+This is a simple example of how to use the HTML5 Geolocation functions. To try this site live visit http://geo.extremewebs.com and choose either Bing or Google maps.
