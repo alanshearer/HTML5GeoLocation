@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>Citrix</name>
+  <description><![CDATA[]]></description>
+  <Style id="style1">
+    <LineStyle>
+      <color>73FF0000</color>
+      <width>5</width>
+    </LineStyle>
+  </Style>
+  <Style id="style3">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style4">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>6363</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        -80.153458,26.205248,0.000000
+        -80.153282,26.205254,0.000000
+        -80.153236,26.205315,0.000000
+        -80.153175,26.205309,0.000000
+        -80.153061,26.205429,0.000000
+        -80.152924,26.205429,0.000000
+        -80.152931,26.205551,0.000000
+        -80.152809,26.205666,0.000000
+        -80.152817,26.205721,0.000000
+        -80.152756,26.205767,0.000000
+        -80.152763,26.205900,0.000000
+        -80.152817,26.205853,0.000000
+        -80.153015,26.205849,0.000000
+        -80.153404,26.205500,0.000000
+        -80.153389,26.205315,0.000000
+        -80.153458,26.205248,0.000000
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>535</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style3</styleUrl>
+    <Point>
+      <coordinates>-80.153206,26.205351,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>521</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>-80.152863,26.205729,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>518</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style4</styleUrl>
+    <Point>
+      <coordinates>-80.153023,26.205788,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>
